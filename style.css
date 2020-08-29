@@ -1,0 +1,27 @@
+
+ h1{
+    color:#1520A6;
+}
+h3{
+    color:black
+}
+p{
+    border:solid;
+    font-family: "ink free";
+}
+body{
+    background-color:#888888
+}
+.games1{
+    background-color:#44bb44;
+    color : #82eefd
+}
+
+.menu{
+    display: flex;
+    border : solid;
+    justify-content: space-around;
+}
+a{
+    border: solid
+}
